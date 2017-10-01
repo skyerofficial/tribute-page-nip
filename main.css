@@ -1,0 +1,40 @@
+h1,#diff,#Name,#timeline	{
+ 		font-family: 'EB Garamond', serif;
+ 		text-align:center;
+ 		margin:10px;
+ 		}
+     body {
+         background-color: #fffafa;
+     }
+ 	img	{
+ 		border:0px solid white;
+ 		border-radius:30px;
+		margin:10px;
+ 		}
+ 	h1	{
+ 		font-family:'Dancing Script', cursive;
+ 		font-size:160px;
+		margin-top:0px;
+ 		}
+ 	#diff{
+ 		color:#707070;
+ 		font-family: 'Lora', sans-serif;
+                font-size: 200px;
+ 		}
+ 	div{
+ 			font-size:20px;
+ 		}
+ 	#Name{
+ 			color:#2e2e1f;
+ 			font-style:'EB Garamond', serif;
+			font-size:200%;
+			max-width:1500px;
+ 		 }
+ 		 #timeline{
+ 		 font-family: 'EB Garamond', serif;
+ 		 }
+ 	h2{
+ 		color:#707070;
+ 		font-family: 'Tangerine', cursive;
+ 		font-size:80px;
+ 		}
